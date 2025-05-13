@@ -46,16 +46,11 @@ Offers ability to [start with an existing Azure AI Project](docs/transfer_projec
 
 <!----- This section will draw attention to the FDP branch that is still in beta with the release of the new Founrdy--------->
 
-
-<div style="border: 2px solid #ffcc00; background-color: #fff8dc; padding: 20px; border-radius: 5px; color: black;">
-
-<h3 style="color: black;">⚠️ Looking for the Foundry Developer Portal deployment code?</h3>
-
-<p style="color: black;">
-Since the announcement just happened, we are sharing our branch which will deploy the new FDP components in an isolated environment. <a href="https://github.com/microsoft/Deploy-Your-AI-Application-In-Production/tree/feature/1RP" style="color: black; text-decoration: underline;">Foundry Developer Portal - isolated deployment for production</a>. We will be finalizing the code and merging these changes to the main branch very soon after Build 2025.
-</p>
-
-</div>
+> ⚠️ **Important Note**  
+> Looking for the Foundry Developer Portal deployment code?  
+> Since the announcement just happened, we are sharing our branch which will deploy the new FDP components in an isolated environment.  
+> [Foundry Developer Portal - isolated deployment for production](https://github.com/microsoft/Deploy-Your-AI-Application-In-Production/tree/feature/1RP).  
+> We will be finalizing the code and merging these changes to the main branch very soon after Build 2025.
 
 
 
