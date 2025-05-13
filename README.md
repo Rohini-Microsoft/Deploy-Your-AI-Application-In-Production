@@ -1,7 +1,7 @@
 <!---------------------[  Description  ]------------------<recommended> section below------------------>
 
 # Deploy your AI Application in Production
-<br><br><br><br>
+<br><br>
 <!----- This section will draw attention to the FDP branch that is still in beta with the release of the new Founrdy--------->
 
 > ⚠️ **Important Note**  
@@ -10,7 +10,7 @@
 > [Foundry Developer Portal - isolated deployment for production](https://github.com/microsoft/Deploy-Your-AI-Application-In-Production/tree/feature/1RP).  
 > We will be finalizing the code and merging these changes to the main branch very soon after Build 2025.
 
-<br><br><br><br>
+<br><br>
 
 
 
