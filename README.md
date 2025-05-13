@@ -42,6 +42,25 @@ The diagram below illustrates the capabilities included in the template.
 Offers ability to [start with an existing Azure AI Project](docs/transfer_project_connections.md) which will provision dependent Azure resources based on the Project's established connections within AI Foundry.
 
 
+
+
+<!----- This section will draw attention to the FDP branch that is still in beta with the release of the new Founrdy--------->
+
+
+<div style="border: 2px solid #ffcc00; background-color: #fff8dc; padding: 20px; border-radius: 5px; color: black;">
+
+<h3 style="color: black;">⚠️ Looking for the Foundry Developer Portal deployment code?</h3>
+
+<p style="color: black;">
+Since the announcement just happened, we are sharing our branch which will deploy the new FDP components in an isolated environment. <a href="https://github.com/microsoft/Deploy-Your-AI-Application-In-Production/tree/feature/1RP" style="color: black; text-decoration: underline;">Foundry Developer Portal - isolated deployment for production</a>. We will be finalizing the code and merging these changes to the main branch very soon after Build 2025.
+</p>
+
+</div>
+
+
+
+
+
 ## Prerequisites and high-level steps
 
 1. Have access to an Azure subscription and Entra ID account with Contributor permissions.
