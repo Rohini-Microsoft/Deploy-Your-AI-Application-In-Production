@@ -4,14 +4,14 @@
 <br><br>
 <!----- This section will draw attention to the FDP branch that is still in beta with the release of the new Founrdy--------->
 
-> ⚠️ **Important Note**  
-> Looking for the Foundry Developer Portal deployment code?  
-> We are sharing our branch which will deploy the new FDP components in an isolated environment.  
+> ⚠️ **Important-New Feature**  
+> Looking for the Foundry Developer Portal deployment code? 
+>This branch provides an isolated deployment of the upcoming FDP components, enabling early validation and integration testing. 
 > [Foundry Developer Portal - isolated deployment for production](https://github.com/microsoft/Deploy-Your-AI-Application-In-Production/tree/feature/1RP).  
-> We will be finalizing the code and merging these changes to the main branch very soon after Build 2025.
+> Finalized code will be merged into main shortly after Build 2025, following the official announcement.
 
 <br><br>
-
+<!----- This section above will draw attention to the FDP branch that is still in beta with the release of the new Founrdy--------->
 
 
 ## Overview
