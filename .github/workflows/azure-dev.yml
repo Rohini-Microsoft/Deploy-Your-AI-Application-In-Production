@@ -22,7 +22,7 @@ jobs:
       AZURE_USER_OBJECT_ID: ''
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: Install azd
         uses: Azure/setup-azd@v2
       - name: Azure Developer CLI Login
